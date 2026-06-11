@@ -4,6 +4,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWY4YjAyM2M3ODlmN2x4aTF0bTNpdG01cjE1YXZkN3oxMWE3ZXB6bDhobm1ibGI3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xsCevAab5ufj37BeGR/100.webp" width="600" alt="Matrix Code Rain"/>
+</div>
+
+<br/>
+
 # 🕵️‍♂️ About Me
 
 > **Reverse Engineer & OSINT Investigator** with a track record of 15+ closed high-profile cases.  
@@ -37,6 +43,12 @@ I operate at the intersection of low‑level systems, adversarial behavior analy
 ### Tools & Domains
 `IDA Pro` • `Ghidra` • `x64dbg` • `Wireshark` • `Maltego` • `Python` • `YARA`
 
+<br/>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPWY4YjAyM2M3ODlmN2x4aTF0bTNpdG01cjE1YXZkN3oxMWE3ZXB6bDhobm1ibGI3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/100.webp" width="500" alt="Typing Code"/>
+</div>
+
 ---
 
 ## 🧩 Featured Projects / Write‑ups
@@ -54,7 +66,13 @@ I operate at the intersection of low‑level systems, adversarial behavior analy
 
 - 📧 `rfm0x@proton.me`
 
----
+<br/>
+
+<div align="center">
+  <img src="https://ncatlin.github.io/rgatPages/img/plotgif.gif" width="600" alt="Binary Visualization"/>
+</div>
+
+<br/>
 
 <div align="center">
   <sub>⚡ "Forensics never lies. People do."</sub>
