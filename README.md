@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Reverse+Engineer;OSINT+Specialist;Threat+Intel+Researcher" alt="Typing SVG" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPWY4YjAyM2M3ODlmN2x4aTF0bTNpdG01cjE1YXZkN3oxMWE3ZXB6bDhobm1ibGI3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xsCevAab5ufj37BeGR/100.webp" width="600" alt="Matrix Code Rain"/>
-</div>
-
 <br/>
 
 # 🕵️‍♂️ About Me
@@ -65,12 +58,6 @@ I operate at the intersection of low‑level systems, adversarial behavior analy
 ## 📫 Contact
 
 - 📧 `rfm0x@proton.me`
-
-<br/>
-
-<div align="center">
-  <img src="https://ncatlin.github.io/rgatPages/img/plotgif.gif" width="600" alt="Binary Visualization"/>
-</div>
 
 <br/>
 
